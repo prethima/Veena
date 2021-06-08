@@ -1,8 +1,26 @@
 body{
 	text-align: center;
+	text-decoration: none;
 	background: rgb(34,193,195);
 	background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,197,45,1) 100%);
 }
+a:link {
+  text-decoration: none;
+  padding: 14px 25px;
+  font-size: 20px;
+}
 #svp1{
 	font-size: 30px;
+}
+#bchome{
+	text-align: right;
+}
+.title
+{
+	font-size: 30px;
+}
+.header
+{
+	font-size: 40px;
+	color: #7B2B1A;
 }
